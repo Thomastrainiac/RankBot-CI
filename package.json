@@ -1,0 +1,29 @@
+{
+  "name": "rankbot-ci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thomastrainiac/RankBot-CI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thomastrainiac/RankBot-CI/issues"
+  },
+  "homepage": "https://github.com/Thomastrainiac/RankBot-CI#readme",
+  "dependencies": {
+    "@discordjs/builders": "^0.15.0",
+    "@discordjs/rest": "^0.5.0",
+    "discord-api-types": "^0.36.2",
+    "discord.js": "^13.8.1",
+    "dotenv": "^16.0.1",
+    "noblox.js": "^4.13.1",
+    "node-fetch": "^3.2.8"
+  }
+}
